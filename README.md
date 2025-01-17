@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @liklee-it
 - 👀 I’m Odoo developer and consultant
+- 💰 I'm certified accountant
 - 🌱 I’m located in Frankfurt am Main, Germany
 - 📫 How to reach me under [https://www.alwinen.de/](https://www.alwinen.com/contactus)
 
