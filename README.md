@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liklee-it
+- 👋 Hi, this is @liklee-it
 - 👀 I’m Odoo developer and consultant
 - 💰 I'm certified accountant
 - 🌱 I’m located in Frankfurt am Main, Germany
